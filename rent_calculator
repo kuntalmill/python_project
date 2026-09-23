@@ -1,0 +1,9 @@
+rent = int(input("enter your hostel/falt rent:"))
+food = int(input("enter the amount of food ordered"))
+electricity_spend =int(input("enter the total of electricity spend:"))
+charges_per_unit= int(input("enter the charge per unit:"))
+persons = int(input("enter the number of persons living in rooms/flat:"))
+
+total_bill = electricity_spend * charges_per_unit
+output = (food + rent + tota)
+print("each person bill=",output)
